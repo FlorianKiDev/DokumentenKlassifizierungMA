@@ -1,1 +1,71 @@
-sources
+Deep Learning for Technical Document Classification 
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9729968 
+
+Convolutional Neural Networks for Document Image Classification 
+https://arxiv.org/pdf/1708.03273 
+
+Document Image Retrieval Based on Layout Structural Similarity 
+https://www.researchgate.net/publication/220809172_Document_Image_Retrieval_Based_on_Layout_Structural_Similarity/link/544280190cf2a6a049a8992e/download?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19 
+
+Large-Scale Learnable Graph Convolutional Networks
+https://arxiv.org/abs/1808.03965v1 
+ 
+Rep the Set: Neural Networks for Learning Set Representations 
+https://arxiv.org/abs/1904.01962v2 
+
+Speeding up Word Mover's Distance and its variants via properties of distances between embeddings 
+https://arxiv.org/abs/1912.00509v2 
+
+Attention-based Extraction of Structured Information from Street View Imagery 
+https://arxiv.org/abs/1704.03549v4 
+
+Evaluation of Deep Convolutional Nets for Document Image Classification and Retrieval 
+https://arxiv.org/abs/1502.07058 
+
+Document image classification: Progress over two decades 
+https://www.sciencedirect.com/science/article/abs/pii/S0925231221006925 
+
+Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition 
+https://arxiv.org/abs/1406.4729
+
+CROSS-MODAL DEEP NETWORKS FOR DOCUMENT IMAGE CLASSIFICATION 
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9191268 
+
+Deterministic Routing between Layout Abstractions for Multi-Scale classification of Visually Rich Documents 
+https://www.ijcai.org/proceedings/2019/0466.pdf 
+
+Benchmarking Modern CNN Architectures to RVL-CDIP 
+https://medium.com/@jdegange85/benchmarking-modern-cnn-architectures-to-rvl-cdip-9dd0b7ec2955 
+
+OCR-free Document Understanding Transformer 
+https://arxiv.org/pdf/2111.15664v5 
+
+Training data-efficient image transformers & distillation through attention 
+https://arxiv.org/pdf/2012.12877v2 
+
+DocXClassifier: Towards a Robust and Interpretable Deep Neural Network for Document Image Classification 
+https://www.techrxiv.org/doi/full/10.36227/techrxiv.19310489.v1 
+
+A ConvNet for the 2020s 
+https://arxiv.org/pdf/2201.03545 
+
+AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE 
+https://arxiv.org/pdf/2010.11929 
+
+Side-Tuning: A Baseline for Network Adaptation via Additive Side Networks  
+https://arxiv.org/pdf/1912.13503   
+
+Unified Pretraining Framework for Document Understanding 
+https://arxiv.org/pdf/2204.10939 
+
+I2DFormer: Learning Image to Document Attention for Zero-Shot Image Classification 
+https://arxiv.org/pdf/2209.10304 
+
+FROZEN TRANSFORMERS IN LANGUAGE MODELS ARE EFFECTIVE 	VISUAL ENCODER LAYERS 
+https://arxiv.org/pdf/2310.12973 
+
+Multimodal Few-Shot Learning with Frozen Language Models   
+https://arxiv.org/pdf/2106.13884 
+
+DocBank: A Benchmark Dataset for Document Layout Analysis 
+https://arxiv.org/pdf/2006.01038 
